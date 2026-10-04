@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"level":"LOW","p_max":0.021,"threshold":0.02},"geometry":{"type":"Polygon","coordinates":[[[85.5729,21.125],[85.4104,21.075],[85.3563,20.875],[85.4646,20.925],[85.5188,20.875],[85.6813,20.975],[85.5729,21.125]]]}}]}

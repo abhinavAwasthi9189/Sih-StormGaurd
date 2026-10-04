@@ -1,0 +1,12 @@
+.env
+.venv/
+node_modules/
+dist/
+*.h5
+*.nc
+data/raw/
+data/cache/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+docs/forbidden_strings.txt
